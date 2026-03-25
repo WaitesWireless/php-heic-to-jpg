@@ -27,7 +27,7 @@
     }
   },
   "require": {
-    "maestroerror/heif-converter": "0.2",
+    "maestroerror/heif-converter": "dev-maestro",
     "php": ">=7.4"
   }
 }
